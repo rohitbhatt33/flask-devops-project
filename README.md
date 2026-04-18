@@ -153,6 +153,18 @@ location / {
 * Zero-downtime container replacement
 
 ---
+## 🏷️ Versioning Strategy
+
+This project uses automated semantic-style version tagging:
+- v1.<run_number>
+- latest tag maintained for stable deployment
+
+## ❤️ Container Health Monitoring
+
+Docker HEALTHCHECK is implemented to ensure:
+- Application availability
+- Automatic container health validation
+- Production-ready monitoring support
 ---
 
 ## 📸 Project Screenshots
