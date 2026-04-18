@@ -166,7 +166,6 @@ location / {
 ![alt text](image-2.png)
 
 ### 🌐 Application Running in Browser
-
 ![alt text](image-1.png)
  
 ## ⚠️ Deployment Note
