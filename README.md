@@ -9,6 +9,7 @@ This project demonstrates containerization and deployment of a Flask web applica
 - Nginx
 - AWS EC2 (Ubuntu)
 - DockerHub
+- Github
 
 ## ⚙️ Features
 - Dynamic hostname display
