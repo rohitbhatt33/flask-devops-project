@@ -171,14 +171,14 @@ Docker HEALTHCHECK is implemented to ensure:
 
 ### ✅ GitHub Actions Pipeline Success
 
-![alt text](image.png)
+![alt text](static/image.png)
 
 ### ☁️ AWS EC2 Running Instance
 
-![alt text](image-2.png)
+![alt text](static/image-2.png)
 
 ### 🌐 Application Running in Browser
-![alt text](image-1.png)
+![alt text](static/image-1.png)
  
 ## ⚠️ Deployment Note
 
